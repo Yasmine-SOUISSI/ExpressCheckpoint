@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    font-size: medium;
+
+    color: white;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+.div {
+    display: flex;
+    flex-direction: column;
+}
